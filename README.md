@@ -10,10 +10,10 @@ My Application have the listed features:
 
 Here are some pictures with instructions on how to use my App:
 
-<img src="0.JPG" height="500" width="350">
+<img src="0.JPG" height="600" width="350">
 
-<img src="1.jpg" height="500" width="350">
+<img src="1.JPG" height="600" width="350">
 
-<img src="2.jpg" height="500" width="350">
+<img src="2.JPG" height="600" width="350">
 
-<img src="3.jpg" height="500" width="350">
+<img src="3.JPG" height="350" width="600">
