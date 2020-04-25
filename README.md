@@ -9,3 +9,11 @@ My Application have the listed features:
 4- It keeps the current book even when rotation feature is used
 
 Here are some pictures with instructions on how to use my App:
+
+<img src="0.png" height="500" width="350">
+
+<img src="1.png" height="500" width="350">
+
+<img src="2.png" height="500" width="350">
+
+<img src="3.png" height="500" width="350">
