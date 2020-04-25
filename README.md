@@ -10,7 +10,7 @@ My Application have the listed features:
 
 Here are some pictures with instructions on how to use my App:
 
-<img src="0.jpg" height="500" width="350">
+<img src="0.JPG" height="500" width="350">
 
 <img src="1.jpg" height="500" width="350">
 
